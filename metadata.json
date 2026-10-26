@@ -1,0 +1,8 @@
+{
+  "name": " MLServe — ML Model Deployment \u0026 Performance Engineering",
+  "description": "Containerized ML model-serving platform with versioned registration, REST inference APIs, reproducible p50/p95/p99 benchmarking, automated quality gates, and optimization experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,2 +1,20 @@
-# Model-Registry-Containerized-Deployments
-Model Registry &amp; Containerized Deployments is a strong project area for your Google Software Engineer III, AI/ML Infrastructure, Performance Engineering role. It demonstrates how to manage machine-learning models, deploy them reliably, and serve predictions through scalable APIs.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/8777e2bb-bd54-4d0e-a7c6-20cf0ce8ca7c
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
